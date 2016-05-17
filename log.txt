@@ -1,0 +1,13 @@
+$ git log
+commit 07780cdcaac73e3fdad2c5d2341967714eb2c243
+Author: Nana <alishka21@gmail.com>
+Date:   Tue May 17 19:36:14 2016 +0300
+
+    Add status.txt
+
+commit c97d9552e5fb71c190b9324bfa445950ddc5b4f7
+Author: Nana <alishka21@gmail.com>
+Date:   Tue May 17 19:34:55 2016 +0300
+
+    Add .gitignore
+
