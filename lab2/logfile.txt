@@ -1,0 +1,9 @@
+Log created 17.05.2016 13:25:30
+File messages.json read. 3 messages found.
+Sorted messages by time.
+Message with IDabcde-12345was added.
+Sorted messages by time.
+Search of messages by authoruser 1performed. Total 1 messages found
+Search of messages by authoruser 1performed. Total 1 messages found
+Search of messages by authoruser 1performed. Total 2 messages found
+Search of messages by authoruser 1performed. Total 2 messages found

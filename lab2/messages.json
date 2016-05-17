@@ -1,0 +1,26 @@
+[
+  {
+    "id": "92dff7ee-00d7-41e5-a3db-e7189963ee3e",
+    "message": "Hello!",
+    "author": "User 1",
+    "timestamp": "Feb 8, 2016 12:27:19 PM"
+  },
+  {
+    "id": "46f408b2-72cb-4307-b6e6-95a8515eb7c0",
+    "message": "Hi!",
+    "author": "User 2",
+    "timestamp": "Feb 8, 2016 12:27:20 PM"
+  },
+  {
+    "id": "8a253b16-e934-4cd6-8d1d-f631ac7a8e44",
+    "message": "How are you?",
+    "author": "User 1",
+    "timestamp": "Feb 8, 2016 12:27:21 PM"
+  },
+  {
+    "id": "abcde-12345",
+    "message": "hi!",
+    "author": "nana",
+    "timestamp": "Feb 8, 2016 1:00:00 PM"
+  }
+]
