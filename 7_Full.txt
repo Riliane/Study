@@ -1,0 +1,11 @@
+GET http://localhost:8080/chat?token=TN27EN HTTP/1.1
+User-Agent: Composer
+Host: localhost:8080
+
+
+HTTP/1.1 200 OK
+Date: Thu, 02 Jun 2016 15:19:18 GMT
+Access-control-allow-origin: *
+Content-length: 46
+
+{"messages":["how are you?"],"token":"TN35EN"}
