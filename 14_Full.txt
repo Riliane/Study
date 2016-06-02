@@ -1,0 +1,13 @@
+POST http://localhost:8080/chat HTTP/1.1
+User-Agent: Composer
+Host: localhost:8080
+Content-Length: 28
+
+{"message" : "how are you?"}
+HTTP/1.1 200 OK
+Date: Thu, 02 Jun 2016 15:30:25 GMT
+Transfer-encoding: chunked
+Access-control-allow-origin: *
+
+0
+
